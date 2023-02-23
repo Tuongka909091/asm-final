@@ -93,7 +93,7 @@ a{
     
 }
 a + a{
-      margin: 20px;
+      margin: 20px; 
 }
 .main{  
     width: 60%;
